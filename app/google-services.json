@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022855114806",
+    "firebase_url": "https://service-clipboarder.firebaseio.com",
+    "project_id": "service-clipboarder",
+    "storage_bucket": "service-clipboarder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022855114806:android:78cea6063b2f2c21",
+        "android_client_info": {
+          "package_name": "app.service.clipboarder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022855114806-u4dnq6i4q947i8lbue09aagj59tv72br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7MQCvJ6-TNmHYyNiA6dxl1mYbzARPvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022855114806-u4dnq6i4q947i8lbue09aagj59tv72br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
